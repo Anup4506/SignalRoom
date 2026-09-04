@@ -1,0 +1,3 @@
+Customer: I am calling to confirm the date of my next billing cycle.
+Agent: Your next billing cycle begins on the fifteenth of this month.
+Customer: Understood. I have recorded the date.

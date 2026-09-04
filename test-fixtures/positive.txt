@@ -1,0 +1,3 @@
+Customer: I am delighted with the service. Everything works perfectly now.
+Agent: I am glad we resolved the issue quickly for you.
+Customer: Thank you for the excellent support. I am completely satisfied.
