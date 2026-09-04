@@ -1,3 +1,8 @@
+#Production credentials
+
+Username=SignalRoom Sentiment Analyzer
+password=Ronaldo@7
+
 # SignalRoom Sentiment Analyzer
 
 SignalRoom is a full-stack conversation intelligence application for customer-support transcripts. It accepts `.txt` files and produces overall sentiment, sentence-level analysis, emotion signals, call-quality KPIs, a summary, key issues, recommended actions, and a presentation-ready PDF report.
@@ -44,13 +49,13 @@ Production requires explicit application credentials and an authentication secre
 
 ## Environment variables
 
-| Variable | Purpose |
-| --- | --- |
-| `GROQ_API_KEY` | Server-side Groq API credential |
-| `GROQ_MODEL` | Groq model ID; defaults to `openai/gpt-oss-20b` |
-| `APP_USERNAME` | Reviewer login username |
-| `APP_PASSWORD` | Reviewer login password |
-| `AUTH_SECRET` | Secret used to sign session cookies |
+| Variable       | Purpose                                         |
+| -------------- | ----------------------------------------------- |
+| `GROQ_API_KEY` | Server-side Groq API credential                 |
+| `GROQ_MODEL`   | Groq model ID; defaults to `openai/gpt-oss-20b` |
+| `APP_USERNAME` | Reviewer login username                         |
+| `APP_PASSWORD` | Reviewer login password                         |
+| `AUTH_SECRET`  | Secret used to sign session cookies             |
 
 ## Commands
 
